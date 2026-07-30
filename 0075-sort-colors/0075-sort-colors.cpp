@@ -1,7 +1,6 @@
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
-        //adarsh
         int n=nums.size();
         int arr[3] = {0, 0, 0};
         for(int i=0; i<n; i++){
