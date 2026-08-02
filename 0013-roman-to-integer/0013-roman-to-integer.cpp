@@ -19,10 +19,10 @@ public:
             int curr = value(s[i]);
 
             if(i + 1 < s.length() && curr < value(s[i + 1])) {
-                result -= curr;
+                result =result - curr;
             }
             else {
-                result += curr;
+                result = result+ curr;
             }
         }
 
