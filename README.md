@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adraj-tech/leetCode/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/Adraj-tech/leetCode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Adraj-tech/leetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/Adraj-tech/leetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Adraj-tech/leetCode/tree/master/0053-maximum-subarray) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Adraj-tech/leetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Adraj-tech/leetCode/tree/master/0075-sort-colors) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Adraj-tech/leetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
