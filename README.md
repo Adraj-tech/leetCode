@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adraj-tech/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Adraj-tech/leetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Adraj-tech/leetCode/tree/master/0169-majority-element) |
+| [0334-increasing-triplet-subsequence](https://github.com/Adraj-tech/leetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0704-binary-search](https://github.com/Adraj-tech/leetCode/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/Adraj-tech/leetCode/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Adraj-tech/leetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Adraj-tech/leetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adraj-tech/leetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Hash Table
 |  |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Adraj-tech/leetCode/tree/master/0509-fibonacci-number) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Adraj-tech/leetCode/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
