@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Adraj-tech/leetCode/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/Adraj-tech/leetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0704-binary-search](https://github.com/Adraj-tech/leetCode/tree/master/0704-binary-search) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/Adraj-tech/leetCode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1539-kth-missing-positive-number](https://github.com/Adraj-tech/leetCode/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Adraj-tech/leetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3731-find-missing-elements](https://github.com/Adraj-tech/leetCode/tree/master/3731-find-missing-elements) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/Adraj-tech/leetCode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Adraj-tech/leetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
