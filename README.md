@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Adraj-tech/leetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Adraj-tech/leetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Adraj-tech/leetCode/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/Adraj-tech/leetCode/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/Adraj-tech/leetCode/tree/master/0509-fibonacci-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adraj-tech/leetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Adraj-tech/leetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Adraj-tech/leetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Adraj-tech/leetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Adraj-tech/leetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Adraj-tech/leetCode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adraj-tech/leetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Adraj-tech/leetCode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Adraj-tech/leetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Adraj-tech/leetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Adraj-tech/leetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
