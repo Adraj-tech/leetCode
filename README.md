@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Adraj-tech/leetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Adraj-tech/leetCode/tree/master/0704-binary-search) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Adraj-tech/leetCode/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adraj-tech/leetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/Adraj-tech/leetCode/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Adraj-tech/leetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3731-find-missing-elements](https://github.com/Adraj-tech/leetCode/tree/master/3731-find-missing-elements) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Adraj-tech/leetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Adraj-tech/leetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Adraj-tech/leetCode/tree/master/0169-majority-element) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adraj-tech/leetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Adraj-tech/leetCode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Adraj-tech/leetCode/tree/master/0069-sqrtx) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adraj-tech/leetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
