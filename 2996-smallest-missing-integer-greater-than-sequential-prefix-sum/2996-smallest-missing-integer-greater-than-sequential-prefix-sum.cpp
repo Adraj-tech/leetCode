@@ -12,12 +12,11 @@ public:
             }
         }
         sort(nums.begin(), nums.end());
-        int req = sum;
         for(int i = 0; i<n; i++){
-            if(nums[i]==req){
-                req++;
+            if(nums[i]==sum){
+                sum++;
             }
         }
-        return req;
+        return sum;
     }
 };
