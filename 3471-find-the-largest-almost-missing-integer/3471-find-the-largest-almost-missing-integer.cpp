@@ -9,9 +9,7 @@ public:
         vector<int> arr(maxNo + 1, 0);
         int j = 0;
         while (j + k <= n) {
-
             vector<int> seen(maxNo + 1, 0);
-
             for (int i = j; i < j + k; i++) {
                 if (seen[nums[i]] == 0) {
                     arr[nums[i]]++;
