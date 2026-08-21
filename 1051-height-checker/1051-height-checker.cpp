@@ -2,8 +2,6 @@ class Solution {
 public:
     int heightChecker(vector<int>& heights) {
         vector<int> freq(101, 0);
-
-        // Count frequency of each height
         for (int h : heights) {
             freq[h]++;
         }
