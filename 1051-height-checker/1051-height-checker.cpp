@@ -1,23 +1,13 @@
 class Solution {
 public:
     int heightChecker(vector<int>& heights) {
-        vector<int> freq(101, 0);
-        for (int h : heights) {
-            freq[h]++;
-        }
-        int index = 0;
+        vector<int> expected = heights;
+         sort(expected.begin(),expected.end());
         int count = 0;
-        for (int h = 1; h <= 100; h++) {
-            while (freq[h] > 0) {
-                if (heights[index] != h) {
-                    count++;
-                }
-
-                index++;
-                freq[h]--;
-            }
+        for(int i = 0 ; i < heights.size() ;i++){
+            if(heights[i]!=expected[i])
+                count++;
         }
-
         return count;
     }
 };
