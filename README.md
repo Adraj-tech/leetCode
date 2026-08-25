@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Adraj-tech/leetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/Adraj-tech/leetCode/tree/master/1051-height-checker) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Adraj-tech/leetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Adraj-tech/leetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Adraj-tech/leetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adraj-tech/leetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Adraj-tech/leetCode/tree/master/1470-shuffle-the-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Adraj-tech/leetCode/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/Adraj-tech/leetCode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/Adraj-tech/leetCode/tree/master/0728-self-dividing-numbers) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Adraj-tech/leetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adraj-tech/leetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Adraj-tech/leetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Adraj-tech/leetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
