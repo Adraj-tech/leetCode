@@ -1,11 +1,10 @@
 class Solution {
 public:
     string shortestBeautifulSubstring(string s, int k) {
-        int n=s.size();
        int  count =0;
         int j=0;
         string result="";
-        for(int i=0;i<n;i++){
+        for(int i=0;i<s.size();i++){
             if (s[i] == '1'){
                 count++;
             }
