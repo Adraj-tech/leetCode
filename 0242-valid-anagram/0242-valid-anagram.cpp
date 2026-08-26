@@ -4,7 +4,7 @@ public:
         if(s.size() != t.size()){
             return 0;
         }
-        vector<int> freq(26);
+        int freq[26] = {0};
         for(int i = 0; i<s.size(); i++){
             freq[s[i] - 'a']++;
             freq[t[i] - 'a']--;
