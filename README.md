@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Adraj-tech/leetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Adraj-tech/leetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adraj-tech/leetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Adraj-tech/leetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Adraj-tech/leetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [1903-largest-odd-number-in-string](https://github.com/Adraj-tech/leetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adraj-tech/leetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Adraj-tech/leetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adraj-tech/leetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Adraj-tech/leetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Adraj-tech/leetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Adraj-tech/leetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Adraj-tech/leetCode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Adraj-tech/leetCode/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Adraj-tech/leetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Adraj-tech/leetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Adraj-tech/leetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Adraj-tech/leetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Newton's Method
 |  |
 | ------- |
