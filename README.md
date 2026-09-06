@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Adraj-tech/leetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Adraj-tech/leetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Adraj-tech/leetCode/tree/master/0069-sqrtx) |
+| [0415-add-strings](https://github.com/Adraj-tech/leetCode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Adraj-tech/leetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adraj-tech/leetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Adraj-tech/leetCode/tree/master/0728-self-dividing-numbers) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Adraj-tech/leetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Adraj-tech/leetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Adraj-tech/leetCode/tree/master/0242-valid-anagram) |
+| [0415-add-strings](https://github.com/Adraj-tech/leetCode/tree/master/0415-add-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/Adraj-tech/leetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1528-shuffle-string](https://github.com/Adraj-tech/leetCode/tree/master/1528-shuffle-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Adraj-tech/leetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Adraj-tech/leetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Adraj-tech/leetCode/tree/master/0059-spiral-matrix-ii) |
+| [0415-add-strings](https://github.com/Adraj-tech/leetCode/tree/master/0415-add-strings) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Adraj-tech/leetCode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1929-concatenation-of-array](https://github.com/Adraj-tech/leetCode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Adraj-tech/leetCode/tree/master/2149-rearrange-array-elements-by-sign) |
