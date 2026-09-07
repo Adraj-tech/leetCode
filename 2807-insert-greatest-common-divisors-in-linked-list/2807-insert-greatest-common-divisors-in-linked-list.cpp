@@ -15,8 +15,7 @@ public:
             return head;
         ListNode *front = head->next, *prev = head;
         while (front != NULL) {
-            int ans = gcd(front->val, prev->val);
-            ListNode* newNode = new ListNode(ans);
+            ListNode* newNode = new ListNode(gcd(front->val, prev->val));
             prev->next = newNode;
             newNode->next = front;
             prev = front;
