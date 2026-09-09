@@ -2,13 +2,9 @@ class Solution {
 public:
     long long countCommas(long long n) {
         long long ans = 0;
-        long long threshold = 1000;
-
-        while (threshold <= n) {
-            ans += n - threshold + 1;
-            threshold *= 1000;
+        for (long long x = 1000; x <= n; x *= 1000) {
+            ans += n - x + 1;
         }
-
         return ans;
     }
 };
