@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Adraj-tech/leetCode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Adraj-tech/leetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/Adraj-tech/leetCode/tree/master/1051-height-checker) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Adraj-tech/leetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Adraj-tech/leetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Adraj-tech/leetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/Adraj-tech/leetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Adraj-tech/leetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Adraj-tech/leetCode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Adraj-tech/leetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Adraj-tech/leetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1331-rank-transform-of-an-array](https://github.com/Adraj-tech/leetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adraj-tech/leetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Adraj-tech/leetCode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Adraj-tech/leetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Adraj-tech/leetCode/tree/master/0415-add-strings) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Adraj-tech/leetCode/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Adraj-tech/leetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1929-concatenation-of-array](https://github.com/Adraj-tech/leetCode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Adraj-tech/leetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adraj-tech/leetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Adraj-tech/leetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Adraj-tech/leetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Adraj-tech/leetCode/tree/master/0073-set-matrix-zeroes) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Adraj-tech/leetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1672-richest-customer-wealth](https://github.com/Adraj-tech/leetCode/tree/master/1672-richest-customer-wealth) |
 ## Recursion
 |  |
