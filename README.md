@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Adraj-tech/leetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Adraj-tech/leetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Adraj-tech/leetCode/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Adraj-tech/leetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Adraj-tech/leetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Adraj-tech/leetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adraj-tech/leetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/Adraj-tech/leetCode/tree/master/0917-reverse-only-letters) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Adraj-tech/leetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Adraj-tech/leetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Adraj-tech/leetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Adraj-tech/leetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adraj-tech/leetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adraj-tech/leetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Adraj-tech/leetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adraj-tech/leetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Adraj-tech/leetCode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Adraj-tech/leetCode/tree/master/0455-assign-cookies) |
 | [1903-largest-odd-number-in-string](https://github.com/Adraj-tech/leetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Adraj-tech/leetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Adraj-tech/leetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Adraj-tech/leetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adraj-tech/leetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Adraj-tech/leetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
