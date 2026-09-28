@@ -31,9 +31,9 @@ public:
                 count = 0;
             }
         }
-        while (!st.empty()) {
-            st.pop();
-        }
+        // while (!st.empty()) {
+        //     st.pop();
+        // }
         return head;
     }
 };
