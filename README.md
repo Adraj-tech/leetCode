@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Adraj-tech/leetCode/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Adraj-tech/leetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Adraj-tech/leetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/Adraj-tech/leetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adraj-tech/leetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Adraj-tech/leetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Adraj-tech/leetCode/tree/master/0724-find-pivot-index) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Adraj-tech/leetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Adraj-tech/leetCode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/Adraj-tech/leetCode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Adraj-tech/leetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adraj-tech/leetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/Adraj-tech/leetCode/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Adraj-tech/leetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Adraj-tech/leetCode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Adraj-tech/leetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/Adraj-tech/leetCode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Adraj-tech/leetCode/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/Adraj-tech/leetCode/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Adraj-tech/leetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Adraj-tech/leetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Adraj-tech/leetCode/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/Adraj-tech/leetCode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adraj-tech/leetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bubble Sort
