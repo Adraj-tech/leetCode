@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Adraj-tech/leetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Adraj-tech/leetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Adraj-tech/leetCode/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/Adraj-tech/leetCode/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Adraj-tech/leetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/Adraj-tech/leetCode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Adraj-tech/leetCode/tree/master/0875-koko-eating-bananas) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Adraj-tech/leetCode/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/Adraj-tech/leetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Adraj-tech/leetCode/tree/master/0415-add-strings) |
+| [0735-asteroid-collision](https://github.com/Adraj-tech/leetCode/tree/master/0735-asteroid-collision) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Adraj-tech/leetCode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Adraj-tech/leetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1929-concatenation-of-array](https://github.com/Adraj-tech/leetCode/tree/master/1929-concatenation-of-array) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Adraj-tech/leetCode/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/Adraj-tech/leetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Adraj-tech/leetCode/tree/master/0234-palindrome-linked-list) |
+| [0735-asteroid-collision](https://github.com/Adraj-tech/leetCode/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/Adraj-tech/leetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Adraj-tech/leetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Adraj-tech/leetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
