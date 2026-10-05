@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Adraj-tech/leetCode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Adraj-tech/leetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adraj-tech/leetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0670-maximum-swap](https://github.com/Adraj-tech/leetCode/tree/master/0670-maximum-swap) |
 | [0728-self-dividing-numbers](https://github.com/Adraj-tech/leetCode/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/Adraj-tech/leetCode/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Adraj-tech/leetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Adraj-tech/leetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/Adraj-tech/leetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Adraj-tech/leetCode/tree/master/0561-array-partition) |
+| [0670-maximum-swap](https://github.com/Adraj-tech/leetCode/tree/master/0670-maximum-swap) |
 | [0860-lemonade-change](https://github.com/Adraj-tech/leetCode/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Adraj-tech/leetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Adraj-tech/leetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
