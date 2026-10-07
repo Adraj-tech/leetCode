@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adraj-tech/leetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Adraj-tech/leetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Adraj-tech/leetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2716-minimize-string-length](https://github.com/Adraj-tech/leetCode/tree/master/2716-minimize-string-length) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Adraj-tech/leetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adraj-tech/leetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/Adraj-tech/leetCode/tree/master/3110-score-of-a-string) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Adraj-tech/leetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Adraj-tech/leetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Adraj-tech/leetCode/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2716-minimize-string-length](https://github.com/Adraj-tech/leetCode/tree/master/2716-minimize-string-length) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Adraj-tech/leetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adraj-tech/leetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Adraj-tech/leetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
