@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Adraj-tech/leetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Adraj-tech/leetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Adraj-tech/leetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Adraj-tech/leetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Adraj-tech/leetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Adraj-tech/leetCode/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/Adraj-tech/leetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Adraj-tech/leetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Adraj-tech/leetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Adraj-tech/leetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Adraj-tech/leetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Adraj-tech/leetCode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/Adraj-tech/leetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Adraj-tech/leetCode/tree/master/0561-array-partition) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Adraj-tech/leetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Adraj-tech/leetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Adraj-tech/leetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Adraj-tech/leetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Adraj-tech/leetCode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Adraj-tech/leetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Adraj-tech/leetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Adraj-tech/leetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Adraj-tech/leetCode/tree/master/0229-majority-element-ii) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Adraj-tech/leetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Adraj-tech/leetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Adraj-tech/leetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -448,4 +452,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Adraj-tech/leetCode/tree/master/0175-combine-two-tables) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Adraj-tech/leetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
