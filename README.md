@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Adraj-tech/leetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Adraj-tech/leetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Adraj-tech/leetCode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Adraj-tech/leetCode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Adraj-tech/leetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Adraj-tech/leetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adraj-tech/leetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Adraj-tech/leetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Adraj-tech/leetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Adraj-tech/leetCode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Adraj-tech/leetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Adraj-tech/leetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Adraj-tech/leetCode/tree/master/0415-add-strings) |
 | [0917-reverse-only-letters](https://github.com/Adraj-tech/leetCode/tree/master/0917-reverse-only-letters) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Adraj-tech/leetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Adraj-tech/leetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Adraj-tech/leetCode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Adraj-tech/leetCode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Adraj-tech/leetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Adraj-tech/leetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Adraj-tech/leetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Adraj-tech/leetCode/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/Adraj-tech/leetCode/tree/master/0389-find-the-difference) |
 ## Pigeonhole Principle
 |  |
 | ------- |
