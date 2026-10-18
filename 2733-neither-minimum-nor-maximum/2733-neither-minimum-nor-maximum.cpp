@@ -5,8 +5,6 @@ public:
         int mini = 100;
         int maxi = 1;
         int ans = -1;
-        if (n <= 2)
-            return -1;
         for (int i = 0; i < n; i++) {
             mini = min(mini, nums[i]);
             maxi = max(maxi, nums[i]);
