@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Adraj-tech/leetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/Adraj-tech/leetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adraj-tech/leetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Adraj-tech/leetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Adraj-tech/leetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Adraj-tech/leetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Adraj-tech/leetCode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Adraj-tech/leetCode/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Adraj-tech/leetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/Adraj-tech/leetCode/tree/master/0917-reverse-only-letters) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Adraj-tech/leetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Adraj-tech/leetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Adraj-tech/leetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Adraj-tech/leetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Adraj-tech/leetCode/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Adraj-tech/leetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adraj-tech/leetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Adraj-tech/leetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adraj-tech/leetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Adraj-tech/leetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Adraj-tech/leetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Adraj-tech/leetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Adraj-tech/leetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Adraj-tech/leetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Adraj-tech/leetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Adraj-tech/leetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Adraj-tech/leetCode/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Adraj-tech/leetCode/tree/master/2089-find-target-indices-after-sorting-array) |
